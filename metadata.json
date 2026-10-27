@@ -1,0 +1,6 @@
+{
+  "name": "StretchX",
+  "description": "Advanced resolution and aspect-ratio gaming controller powered by Shizuku ADB",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
